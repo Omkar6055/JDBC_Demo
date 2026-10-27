@@ -8,7 +8,7 @@ public class JdbcDemo {
         
         String url = "jdbc:mysql://localhost:3306/jdbc_demo";
         String username = "root";
-        String password = "2040";
+        String password = "******";
 
         String query = "Select id, name,city from student";
         try (
