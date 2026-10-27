@@ -1,0 +1,13 @@
+bin/
+*.class
+
+.vscode/
+.settings/
+.project
+.classpath
+.idea/
+*.iml
+
+.env
+.env.*
+application-local.properties
